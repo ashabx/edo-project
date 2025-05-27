@@ -25,8 +25,8 @@ users = []
 documents = []
 
 # --- Пример пользователей ---
-users.append(User("Иван", "Автор"))
-users.append(User("Мария", "Согласующий"))
+users.append(User("Асхаб", "Автор"))
+users.append(User("Тамаев", "Согласующий"))
 
 # --- Функции ---
 def add_document():
